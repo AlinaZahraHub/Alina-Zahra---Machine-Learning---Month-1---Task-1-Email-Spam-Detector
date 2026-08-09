@@ -5,7 +5,7 @@
 ---
 
 ## 🔗 Live Demo
-* **Live Application:** [View Deployed Streamlit App](#) *(Yahan apna Streamlit Cloud URL dal dein)*
+* **Live Application:** https://email-spam-detector-web.streamlit.app/
 
 ---
 
@@ -89,7 +89,9 @@ email-spam-detector/
 
 * **Name:** Alina Zahra
 * **Internship Program:** Machine Learning Internship & Training Program (August – September 2026)
-* **Organization:** Arch Technologies [@Arch Technologies]
+* **Organization:** Arch Technologies
+* **GitHub:** https://github.com/AlinaZahraHub
+* **LinkedIn:** https://www.linkedin.com/in/alina-zahra12/ 
 
 ```
 
