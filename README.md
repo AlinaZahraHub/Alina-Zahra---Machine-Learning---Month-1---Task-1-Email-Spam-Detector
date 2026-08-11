@@ -5,7 +5,9 @@
 ---
 
 ## 🔗 Live Demo
-* **Live Application:** https://email-spam-detector-web.streamlit.app/
+<img width="1918" height="849" alt="email" src="https://github.com/user-attachments/assets/838383d6-c664-4c3e-8277-649247872904" />
+
+* **Live Application:** https://alina-zahra-machine-learning-month-1-task-1-email-spam-detector.streamlit.app/
 
 ---
 
