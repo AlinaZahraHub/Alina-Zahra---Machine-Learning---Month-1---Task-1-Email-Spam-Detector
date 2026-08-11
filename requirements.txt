@@ -1,4 +1,0 @@
-streamlit
-pickle-mixin
-nltk
-scikit-learn
