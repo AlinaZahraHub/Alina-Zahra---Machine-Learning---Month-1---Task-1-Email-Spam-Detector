@@ -1,7 +1,6 @@
-import streamlit as str_lib  # ya seedha streamlit
 import streamlit as st
 
-# 1. Sabse pehli Streamlit command yeh honi chahiye
+# 1. Yeh command sabse pehli honi chahiye (imports ke foran baad)
 st.set_page_config(page_title="MNIST Classifier", layout="wide", page_icon="🧠")
 
 from streamlit_drawable_canvas import st_canvas
@@ -13,7 +12,7 @@ import tensorflow as tf
 def load_mnist_model():
     return tf.keras.models.load_model('mnist_digit_model.h5')
 
-# Baaki ka saara code iske baad aayega...
+
 
 # Model load
 try:
