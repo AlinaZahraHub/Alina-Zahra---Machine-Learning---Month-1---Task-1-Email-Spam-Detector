@@ -2,5 +2,3 @@ streamlit
 pickle-mixin
 nltk
 scikit-learn
-streamlit-drawable-canvas
-tensorflow
